@@ -1,0 +1,13 @@
+﻿  Chpater4.cpp
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\C++\הגשות\פרק 4\Chpater4\Chpater4\Chpater4.cpp(23,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Circle.cpp
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\C++\הגשות\פרק 4\Chpater4\Chpater4\Circle.cpp(9,25): warning C4244: 'return': conversion from 'double' to 'const float', possible loss of data
+  Point.cpp
+  Rectangle.cpp
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\C++\הגשות\פרק 4\Chpater4\Chpater4\Rectangle.cpp(25,18): warning C4244: 'return': conversion from 'double' to 'const float', possible loss of data
+  Shape.cpp
+  Triangle.cpp
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\C++\הגשות\פרק 4\Chpater4\Chpater4\Triangle.cpp(21,20): warning C4244: 'return': conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
+Triangle.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Triangle::printSpecial(void)" (?printSpecial@Triangle@@UAEXXZ)
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\C++\הגשות\פרק 4\Chpater4\Debug\Chpater4.exe : fatal error LNK1120: 1 unresolved externals
